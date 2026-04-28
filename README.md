@@ -1,9 +1,7 @@
-Here’s a **professional, large GitHub README.md** for your project with badges, structure, and strong presentation 👇
-(You can copy-paste this directly into your repo)
 
 ---
 
-```md
+
 # 🧠 CortexVision AI (C/C++ Embedded)
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
