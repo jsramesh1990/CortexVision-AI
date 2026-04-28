@@ -1,0 +1,14 @@
+cortexvision-ai-cpp/
+│
+├── src/
+│   ├── main.cpp
+│   ├── image_processor.cpp
+│   ├── image_processor.h
+│   ├── hardware.c
+│   ├── hardware.h
+│
+├── include/
+│
+├── Makefile
+└── README.md
+

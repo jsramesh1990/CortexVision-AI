@@ -1,0 +1,25 @@
+cortexvision-ai/
+│
+├── app/
+│   ├── main.py
+│   ├── api/
+│   │   └── routes.py
+│   ├── agents/
+│   │   ├── image_agent.py
+│   │   ├── video_agent.py
+│   │   └── face_agent.py
+│   ├── models/
+│   │   └── detector.py
+│   ├── core/
+│   │   └── config.py
+│   └── utils/
+│       └── helpers.py
+│
+├── tests/
+│   └── test_api.py
+│
+├── requirements.txt
+├── Dockerfile
+├── .gitignore
+└── README.md
+
