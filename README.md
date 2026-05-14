@@ -2,7 +2,7 @@
 ---
 
 
-# 🧠 CortexVision AI (C/C++ Embedded)
+#  CortexVision AI (C/C++ Embedded)
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Language](https://img.shields.io/badge/language-C%20%2B%2B-blue)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **CortexVision AI** is a hybrid embedded software project that integrates **low-level hardware control in C** with **high-level AI-like processing in C++**.
 
@@ -21,7 +21,7 @@ This project demonstrates how modern embedded systems can combine **real-time ha
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 
@@ -41,19 +41,19 @@ v
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔌 **Hardware Abstraction Layer (HAL)** using C  
-- 💡 **LED Control System** (Simulated GPIO)  
-- 🔘 **Button Input Handling**  
-- 🧠 **AI Processing Simulation (C++)**  
-- 👁️ **Face Detection Simulation Module**  
-- 🔗 **C and C++ Interoperability using `extern "C"`**  
-- ⚙️ **Modular Embedded Design Pattern**
+-  **Hardware Abstraction Layer (HAL)** using C  
+-  **LED Control System** (Simulated GPIO)  
+-  **Button Input Handling**  
+-  **AI Processing Simulation (C++)**  
+-  **Face Detection Simulation Module**  
+-  **C and C++ Interoperability using `extern "C"`**  
+-  **Modular Embedded Design Pattern**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 
@@ -73,7 +73,7 @@ cortexvision-ai-cpp/
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **C** → Hardware-level programming  
 - **C++** → Object-Oriented processing  
@@ -82,7 +82,7 @@ cortexvision-ai-cpp/
 
 ---
 
-## 🛠️ Build Instructions
+##  Build Instructions
 
 ```bash
 git clone https://github.com/your-username/cortexvision-ai-cpp.git
@@ -92,7 +92,7 @@ make
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 ./cortexvision
@@ -100,7 +100,7 @@ make
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 ```
 Hardware Initialized (Simulated)
@@ -113,28 +113,28 @@ Button Press Detected!
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
-### 🔹 C Layer (hardware.c)
+###  C Layer (hardware.c)
 
 * Simulates GPIO operations
 * Controls LED state
 * Reads button input
 
-### 🔹 C++ Layer (image_processor.cpp)
+###  C++ Layer (image_processor.cpp)
 
 * Handles "AI-like" operations
 * Simulates image/frame processing
 * Performs face detection logic
 
-### 🔹 Integration
+###  Integration
 
 * Uses `extern "C"` to bridge C and C++
 * Demonstrates real embedded interoperability
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Embedded AI systems
 * Edge computing devices
@@ -144,7 +144,7 @@ Button Press Detected!
 
 ---
 
-## 🔐 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 * C & C++ integration
 * Embedded system design
@@ -154,26 +154,26 @@ Button Press Detected!
 
 ---
 
-## 🚧 Future Enhancements
+##  Future Enhancements
 
-* 📷 Real camera integration (OpenCV)
-* 🤖 Actual face detection (Haar / DNN)
-* 🔌 Deployment on microcontrollers (ARM Cortex / Arduino)
-* ⚡ RTOS integration (FreeRTOS)
-* 🌐 IoT connectivity (MQTT / HTTP)
-
----
-
-## 📊 Project Status
-
-✅ Core architecture implemented
-✅ C/C++ interoperability working
-🚧 AI model integration (planned)
-🚧 Real hardware deployment (planned)
+*  Real camera integration (OpenCV)
+*  Actual face detection (Haar / DNN)
+*  Deployment on microcontrollers (ARM Cortex / Arduino)
+*  RTOS integration (FreeRTOS)
+*  IoT connectivity (MQTT / HTTP)
 
 ---
 
-## 🤝 Contributing
+##  Project Status
+
+ Core architecture implemented
+ C/C++ interoperability working
+ AI model integration (planned)
+ Real hardware deployment (planned)
+
+---
+
+##  Contributing
 
 Contributions are welcome!
 
@@ -183,30 +183,25 @@ fork → create branch → commit → pull request
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
+##  Author
 
 Embedded Software Developer
 📍 Focus: Embedded Systems | Edge AI | Firmware Development
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project:
 
-* ⭐ Star this repo
-* 🍴 Fork it
-* 📢 Share it
+*  Star this repo
+*  Fork it
+*  Share it
 
 ---
 
-## 🔥 Tagline
+##  Tagline
 
 > *"Bridging Embedded Systems with Intelligent Edge Processing."*
 
@@ -214,7 +209,7 @@ If you like this project:
 
 ---
 
-## 💡 Pro Tip (Important)
+##  Pro Tip (Important)
 After uploading:
 - Replace `your-username` with your GitHub username  
 - Add a **profile README pin** (so it shows on your GitHub profile)  
